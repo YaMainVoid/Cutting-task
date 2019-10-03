@@ -1,0 +1,6 @@
+C:\Users\Pavel\Desktop\LinearProgramming\CuttingTask\bin\Debug\CuttingTask.dll
+C:\Users\Pavel\Desktop\LinearProgramming\CuttingTask\bin\Debug\CuttingTask.pdb
+C:\Users\Pavel\Desktop\LinearProgramming\CuttingTask\obj\Debug\CuttingTask.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\LinearProgramming\CuttingTask\obj\Debug\CuttingTask.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\LinearProgramming\CuttingTask\obj\Debug\CuttingTask.dll
+C:\Users\Pavel\Desktop\LinearProgramming\CuttingTask\obj\Debug\CuttingTask.pdb

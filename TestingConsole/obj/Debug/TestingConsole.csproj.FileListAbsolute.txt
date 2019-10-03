@@ -1,0 +1,10 @@
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\bin\Debug\TestingConsole.exe.config
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\bin\Debug\TestingConsole.exe
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\bin\Debug\TestingConsole.pdb
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\bin\Debug\CuttingTask.dll
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\bin\Debug\CuttingTask.pdb
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\obj\Debug\TestingConsole.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\obj\Debug\TestingConsole.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\obj\Debug\TestingConsole.csproj.CopyComplete
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\obj\Debug\TestingConsole.exe
+C:\Users\Pavel\Desktop\LinearProgramming\TestingConsole\obj\Debug\TestingConsole.pdb
